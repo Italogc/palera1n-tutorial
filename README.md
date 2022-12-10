@@ -41,6 +41,7 @@ OBS: O comando do "LIBGENERAL" vai dar erro, não se preocupe que faz parte dos 
 
 
 sudo apt install pip
+
 sudo apt install git
 
 sudo git clone --recursive https://github.com/tihmstar/usbmuxd2.git && cd usbmuxd2
@@ -48,19 +49,27 @@ sudo git clone --recursive https://github.com/tihmstar/usbmuxd2.git && cd usbmux
 sudo ./autogen.sh
 
 sudo apt install libtoolize
+
 sudo apt install aclocal
+
 sudo apt install autoheader
+
 sudo apt install automake
+
 sudo apt install autoconf
 
 sudo apt-get update
+
 sudo apt-get upgrade
 
 sudo ./autogen.sh
 
 sudo git https://github.com/tihmstar/libgeneral.git 
+
 sudo apt update
+
 sudo apt upgrade
+
 exit
 
 -----------------------------------------------------------------------------------------------------------------------------------------------------------
@@ -68,7 +77,9 @@ exit
 
 
 sudo git clone --recursive https://github.com/pwnd2e/palera1n-3.0
+
 sudo apt-get update
+
 sudo apt-get upgrade
 
 -----------------------------------------------------------------------------------------------------------------------------------------------------------
@@ -78,12 +89,19 @@ sudo python3 -m pip install pyimg4
 
 
 sudo add-apt-repository universe
+
 sudo apt-get update
+
 sudo apt install git -y
+
 sudo apt install curl
+
 sudo apt install libimobiledevice-utils
+
 sudo apt install python3-pip
+
 sudo apt install libusbmuxd-tools
+
 sudo pip install pyimg4
 
 -----------------------------------------------------------------------------------------------------------------------------------------------------------
@@ -93,10 +111,15 @@ sudo pip install pyimg4
 /bin/bash -c "$(curl -fsSL https://raw.githubusercontent.com/Homebrew/install/HEAD/install.sh)"
 
 sudo apt-get install build-essential procps curl file git
+
 brew install libimobiledevice libirecovery
+
 brew install wget
+
 brew install gcc
+
 sudo apt-get update
+
 sudo apt-get upgrade
 
 -----------------------------------------------------------------------------------------------------------------------------------------------------------
@@ -106,6 +129,7 @@ sudo apt-get upgrade
 sudo wget http://nz2.archive.ubuntu.com/ubuntu/pool/main/o/openssl/libssl1.1_1.1.1f-1ubuntu2.16_amd64.deb
 
 sudo dpkg -i libssl1.1_1.1.1f-1ubuntu2.16_amd64.deb
+
 sudo apt-get install gvfs-backends
 
 -----------------------------------------------------------------------------------------------------------------------------------------------------------
@@ -146,6 +170,7 @@ V -   QUANDO SOLICITADAS, ESCREVER AS MESMAS FRASES DE CONFIRMAÇÃO QUE VOCÊ Q
 SÃO ELAS:
 
 Yes, pwn my idevice
+
 Yes, do as I say
 
 
@@ -172,51 +197,3 @@ sudo ./palera1n.sh --tweaks 15.X.X
 xxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxx
 FIM DESTE SCRIPT
 
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
- 
