@@ -26,7 +26,7 @@ escolha a opção "criar imagem DD" na janela que abrir e espere o processo de c
 instalação de ambos estarão abaixo também.
 
 
-###########################################################################################################################################################
+#################################################################################################################
 
 2.0 - COMANDOS DE PREPARAÇÃO PARA O FUTURO JAILBREAK:
 
@@ -148,7 +148,7 @@ sudo dpkg -i FutureRestore-GUI-Debian-1.98.2.deb
 
 sudo git clone --recursive https://github.com/palera1n/palera1n
 
-###########################################################################################################################################################
+#################################################################################################################
 3.0 - PASSOS DO PROCESSO DO JAILBREAK:
 
 I -   ABRIR 2 JANELAS DO TERMINAL DO SEU LINUX PARA FAZER TODO PROCEDIMENTO DO JAILBREAK;
