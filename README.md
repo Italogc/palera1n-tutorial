@@ -4,7 +4,7 @@
 
 1.0 - INFORMAÇÕES ÚTEIS:
 
-- Palera1n é um jailbreak do tipo "SEMI-TETHERED" para todos dispositivos de processadores A9 ao A11 com iOS15.0 ao 15.7.1; Ou Tethered para A9 ao A11 com iOS15.0 ao 15.3.1;;
+- Palera1n é um jailbreak do tipo "SEMI-TETHERED" para todos dispositivos de processadores A9 ao A11 com iOS15.0 ao 15.7.1; Ou Tethered para A9 ao A11 com iOS15.0 ao 15.3.1;
 
 - O jailbreak do tipo "TETHERED" é somente para aparelhos com o ios15.0 até o ios15.3.1, mas esse jailbreak acaba bugando e se tornando em um semi-tethered do nada,
 portanto, este tipo de jailbreak no momento pode ser considerado como sendo também um semi-tethered normal;
@@ -16,7 +16,8 @@ https://www.linuxmint.com/edition.php?id=299
 
 - Para fazer a instalação do seu Linux Preferido é obrigatório o uso de um pendrive de no mínimo 4GB de armazenamento, e o pendrive bootável pode ser criado pelo
 programa "RUFUS". O pendrive deverá ser formatado em padrão NTFS e em MBR nas configurações do rufus, selecione sua imagem iso do linux baixado e ao iniciar o processo
-escolha a opção "criar imagem DD" na janela que abrir e espere o processo de criação do bootável terminar. Depois disso desligue seu pc e deixe o pendrive inserido para iniciar o processo de instalação do linux;
+escolha a opção "criar imagem DD" na janela que abrir e espere o processo de criação do bootável terminar. Depois disso desligue seu pc e deixe o pendrive inserido para iniciar o processo de instalação do linux. O RUFUS poderá ser baixado no seu site oficial abaixo:
+http://rufus.ie/pt_BR/
 
 - Recomendável criar um novo disco de no mínimo 30GB a 50GB para poder instalar seu linux no seu hd. Deixe este novo disco num disco separado ao disco aonde está instalado seu sistema windows para evitar perder todo seu windows e instalar o linux por cima acidentalmente;
 
@@ -194,6 +195,6 @@ IX -  COMO JÁ MENCIONADO ANTES, PODE SER QUE SEU JAILBREAK TETHERED SE TRANSFOR
 
 sudo ./palera1n.sh --tweaks 15.X.X
 
-xxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxx
-FIM DESTE SCRIPT
+xxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxx
+FIM DESTE SCRIPT DE TUTORIAL
 
