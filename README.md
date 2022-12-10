@@ -16,7 +16,7 @@ https://www.linuxmint.com/edition.php?id=299
 
 - Para fazer a instalação do seu Linux Preferido é obrigatório o uso de um pendrive de no mínimo 4GB de armazenamento, e o pendrive bootável pode ser criado pelo
 programa "RUFUS". O pendrive deverá ser formatado em padrão NTFS e em MBR nas configurações do rufus, selecione sua imagem iso do linux baixado e ao iniciar o processo
-escolha a opção "criar imagem DD" na janela que abrir e espere o processo de criação do bootável terminar. Depois disso desligue seu pc e deixe o pendrive inserido para iniciar o processo de instalação do linux. O RUFUS poderá ser baixado no seu site oficial abaixo:
+escolha a opção "criar imagem DD" na janela que abrir e espere o processo de criação do bootável terminar. Depois disso desligue seu pc e deixe o pendrive inserido para iniciar o processo de instalação do linux. O RUFUS poderá ser baixado no seu site oficial:
 http://rufus.ie/pt_BR/
 
 - Recomendável criar um novo disco de no mínimo 30GB a 50GB para poder instalar seu linux no seu hd. Deixe este novo disco num disco separado ao disco aonde está instalado seu sistema windows para evitar perder todo seu windows e instalar o linux por cima acidentalmente;
@@ -162,6 +162,7 @@ IV -  INICIAR O PROCEDIMENTO DE JAILBREAK EM APENAS UMA DAS DUAS JANELAS DE TERM
 LEMBRETE: BOTE NO LUGAR DO "15.X.X" A VERSÃO DO IOS INSTALADA NO SEU DISPOSITIVO IOS
 PARA FAZER JAILBREAK SEMI-TETHERED ESCREVA O COMANDO --semi-tethered DEPOIS DA SUA VERSÃO IOS NO COMANDO ABAIXO
 
+cd palera1n
 
 sudo ./palera1n.sh --tweaks 15.X.X
 
