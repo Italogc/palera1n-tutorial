@@ -77,7 +77,7 @@ exit
 2.2 - DOWNLOAD DO APLICATIVO DO PALERAIN QUE VAI SER INSTALADO NO SEU APARELHO APÓS O JAILBREAK:
 
 
-sudo git clone --recursive https://github.com/chankanzu/palera1n-3.0
+sudo git clone --recursive https://github.com/Italogc/palera1n-3.0
 
 sudo apt-get update
 
