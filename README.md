@@ -83,6 +83,8 @@ sudo apt-get update
 
 sudo apt-get upgrade
 
+exit
+
 -----------------------------------------------------------------------------------------------------------------------------------------------------------
 2.3 - INSTALAÇÃO DAS DEPENDÊNCIAS DO PALERA1N:
 OBS: Se o último comando da lista abaixo não funcionar no seu linux teste também o comando:
@@ -105,6 +107,8 @@ sudo apt install libusbmuxd-tools
 
 sudo pip install pyimg4
 
+exit
+
 -----------------------------------------------------------------------------------------------------------------------------------------------------------
 2.4 - INSTALAÇÃO DO BREW E SUAS DEPENDÊNCIAS:
 
@@ -123,6 +127,8 @@ sudo apt-get update
 
 sudo apt-get upgrade
 
+exit
+
 -----------------------------------------------------------------------------------------------------------------------------------------------------------
 2.5 - INSTALAÇÃO DO OPENSSL, OPENSSH E DEPENDÊNCIAS DE SHELL:
 
@@ -132,6 +138,8 @@ sudo wget http://nz2.archive.ubuntu.com/ubuntu/pool/main/o/openssl/libssl1.1_1.1
 sudo dpkg -i libssl1.1_1.1.1f-1ubuntu2.16_amd64.deb
 
 sudo apt-get install gvfs-backends
+
+exit
 
 -----------------------------------------------------------------------------------------------------------------------------------------------------------
 2.6 - RECOMENDAÇÕES DO REDDIT PARA FIX DE BUGS DE CONEXÃO ("APPLE FILE CONDUIT" e "FUTURERESTORE GUI"):
@@ -148,6 +156,8 @@ sudo dpkg -i FutureRestore-GUI-Debian-1.98.2.deb
 
 
 sudo git clone --recursive https://github.com/palera1n/palera1n
+
+exit
 
 #################################################################################################################
 3.0 - PASSOS DO PROCESSO DO JAILBREAK:
