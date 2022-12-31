@@ -65,7 +65,11 @@ sudo apt-get upgrade
 
 sudo ./autogen.sh
 
-sudo git https://github.com/tihmstar/libgeneral.git 
+cd ..
+
+sudo git clone https://github.com/tihmstar/libgeneral.git 
+
+sudo git clone --recursive https://github.com/Italogc/usbmuxd2
 
 sudo apt update
 
@@ -207,6 +211,15 @@ IX -  COMO JÁ MENCIONADO ANTES, PODE SER QUE SEU JAILBREAK TETHERED SE TRANSFOR
 sudo ./palera1n.sh --tweaks 15.X.X
 
 -----------------------------------------------------------------------------------------------------------------------------------------------------------
+É ALTAMENTE RECOMENDADO ATUALIZAR AO MENOS 2 VEZES POR SEMANA SEUS OROGRAMAS DE JAILBREAK DO PALERA1N NO SEU COMPUTADOR LINUX, PARA ISSO BASTA EXECUTAR OS COMANDOS ABAIXO NUMA JANELA DE TERMINAL:
+
+sudo rm -r palera1n
+
+sudo git clone --recursive https://github.com/palera1n/palera1n
+
+sudo rm -r palera1n-3.0
+
+sudo git clone --recursive https://github.com/Italogc/palera1n-3.0
 
 -----------------------------------------------------------------------------------------------------------------------------------------------------------
 
@@ -235,5 +248,8 @@ sudo usbmuxd -f -p
 
 
 xxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxx
+
+
+
 FIM DESTE SCRIPT DE TUTORIAL
 
