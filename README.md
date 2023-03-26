@@ -159,7 +159,7 @@ sudo dpkg -i FutureRestore-GUI-Debian-1.98.2.deb
 2.7 - PASTA PRINCIPAL DO PROCESSO DO JAILBREAK:
 
 
-sudo git clone --recursive https://github.com/palera1n/palera1n
+sudo git clone --recursive https://github.com/palera1n/palera1n -b legacy
 
 exit
 
